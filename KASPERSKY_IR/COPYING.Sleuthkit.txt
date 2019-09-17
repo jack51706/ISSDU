@@ -1,0 +1,10 @@
+
+Licenses
+
+The source code in TSK are distributed under several licenses. Each source code file identifies the license that applies to its contents.
+
+Some of the files in TSK core (non-framework) have roots in The Coroner's Toolkit (TCT) and are distributed under the IBM Public License. These files are limited to the file system code and mainly for the FFS and Ext2 file systems. Files that have been created since the fork are released under the Common Public License. This includes all other files in the library. Note that the Common Public License is a generic form of the IBM Public License.
+
+The framework code is distributed under the Common Public License.
+
+TSK also distributes a striped down copy of GNU binutils strings, which has a GPL 2 license.
